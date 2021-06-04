@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Project 4
 
-You can use the [editor on GitHub](https://github.com/daphnecarwin/cit281-p4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Purpose of the project:
+Gain experience interpreting functional descriptions and specifications to complete an assignment
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain experience breaking a project into manageable components
 
-### Markdown
+Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Practice creating and using code modules
 
-```markdown
-Syntax highlighted code block
+Practice using modern JavaScript syntax
 
-# Header 1
-## Header 2
-### Header 3
+Gain experience writing and executing Node.js REST API server using VSCode
 
-- Bulleted
-- List
+Gain experience using Fastify with the GET verb, routes, and route parameters
 
-1. Numbered
-2. List
+Gain experience working with static data
 
-**Bold** and _Italic_ and `Code` text
+Gain experience testing code module without using a web server
 
-[Link](url) and ![Image](src)
-```
+Gain experience using Postman to test web server routes
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Gain experience working with JSON
 
-### Jekyll Themes
+Gain experience using Fastify with POST, PUT, and DELETE verbs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daphnecarwin/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Technologies used for the project:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+VSCode, Fastify, Postman, JSON, Node.js 
+
+What I learned from the project:
+
+I learned how to import and exports code modules and functions. I also practise using ellipses and arrow functions which I was not previously too familiar with. 
+
